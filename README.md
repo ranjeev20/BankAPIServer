@@ -23,7 +23,8 @@ Node.js and npm installed on your machine
    
     http://localhost:5000/api/data/:branch
     
-    where :branch is the name of the branch you want to search for.
+    
+ where :branch is the name of the branch you want to search for.
   
 ## API Reference
 

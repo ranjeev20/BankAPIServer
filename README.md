@@ -1,4 +1,4 @@
-#Bank Details REST API
+# Bank Details REST API
 
 This is an Express app that provides a REST API to search for bank details based on the branch name. The app reads a CSV file of bank details and returns the details of all banks with the specified branch name.
 

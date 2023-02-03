@@ -10,14 +10,10 @@ Node.js and npm installed on your machine
 
 ## Installing
   1. Clone the repository:
-  
-     git clone https://github.com/ranjeev20/BankAPIServer.git
-     
-
-   2.Navigate to the project directory:
+    git clone https://github.com/ranjeev20/BankAPIServer.git
+  2.Navigate to the project directory:
     cd BankAPIServer
-
-   3.Install the dependencies:
+  3.Install the dependencies:
     npm install
 
 ## Running the app

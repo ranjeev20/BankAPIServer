@@ -22,8 +22,11 @@ Node.js and npm installed on your machine
   1.start the app:
     npm start
 
-  2.The app will start running on port 5000. You can access the API at the following endpoint:
+  2.The app will start running on port 5000. 
+   You can access the API at the following endpoint:
+   
     http://localhost:5000/api/data/:branch
+    
     where :branch is the name of the branch you want to search for.
   
 ## API Reference

@@ -24,5 +24,5 @@ TIME TAKEN:
 For coding:30min(Approx)
 For Debugging: 40min(Approx)
 For Deploying: 15min(Approx)
-For readme file and other stuff: 40 min(Approx)
+For readme file and other stuff: 40 min(Approx) **
 

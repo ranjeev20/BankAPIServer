@@ -20,7 +20,7 @@ Node.js and npm installed on your machine
    3.Install the dependencies:
     npm install
 
-#Running the app
+## Running the app
   1.start the app:
     npm start
 
@@ -28,7 +28,7 @@ Node.js and npm installed on your machine
     http://localhost:5000/api/data/:branch
     where :branch is the name of the branch you want to search for.
   
-#API Reference
+## API Reference
  Endpoint
    GET /api/data/:branch
   
@@ -44,14 +44,14 @@ Node.js and npm installed on your machine
 
 ![image](https://user-images.githubusercontent.com/91145878/216672055-0b8cdfc0-3957-42ec-9de3-145447d877c7.png)
 
-#Built With
+## Built With
   Node.js
   
   Express
   
   csv-parser
   
-#Author
+## Author
 
-@Ranjeev Bohara
+**@Ranjeev Bohara**
 

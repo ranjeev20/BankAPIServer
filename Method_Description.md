@@ -20,9 +20,13 @@ In the end, I set the result to an empty array so that current data is not appen
 
 TIME TAKEN:
 
-** For research: 40min(Approx)
+ For research: 40min(Approx)
+ 
 For coding:30min(Approx)
+
 For Debugging: 40min(Approx)
+
 For Deploying: 15min(Approx)
-For readme file and other stuff: 40 min(Approx) **
+
+For readme file and other stuff: 40 min(Approx) 
 

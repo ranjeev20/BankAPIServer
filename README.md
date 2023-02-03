@@ -9,7 +9,9 @@ Node.js and npm installed on your machine
 
 Installing
   1. Clone the repository:
+  
      git clone https://github.com/[your_github_username]/bank-details-api.git
+     
 
   2.Navigate to the project directory:
     cd BankAPIServer

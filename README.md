@@ -1,13 +1,14 @@
-Bank Details REST API
+#Bank Details REST API
+
 This is an Express app that provides a REST API to search for bank details based on the branch name. The app reads a CSV file of bank details and returns the details of all banks with the specified branch name.
 
-Getting Started
+#Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+#Prerequisites
 Node.js and npm installed on your machine
 
-Installing
+#Installing
   1. Clone the repository:
   
      git clone https://github.com/ranjeev20/BankAPIServer.git
@@ -19,7 +20,7 @@ Installing
    3.Install the dependencies:
     npm install
 
-Running the app
+#Running the app
   1.start the app:
     npm start
 
@@ -27,14 +28,14 @@ Running the app
     http://localhost:5000/api/data/:branch
     where :branch is the name of the branch you want to search for.
   
-API Reference
+#API Reference
  Endpoint
    GET /api/data/:branch
   
  Parameters
    branch: The name of the branch you want to search for.
    
-Response
+ Response
   If the branch is found, the response will contain an array of bank details with the specified branch name.
 
 ![image](https://user-images.githubusercontent.com/91145878/216671871-03683f86-0bae-49fa-ace3-ce919c37c697.png)
@@ -43,14 +44,14 @@ Response
 
 ![image](https://user-images.githubusercontent.com/91145878/216672055-0b8cdfc0-3957-42ec-9de3-145447d877c7.png)
 
-Built With
+#Built With
   Node.js
   
   Express
   
   csv-parser
   
-Author
+#Author
 
 @Ranjeev Bohara
 

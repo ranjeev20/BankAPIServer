@@ -11,8 +11,10 @@ Node.js and npm installed on your machine
 ## Installing
   1. Clone the repository:
     git clone https://github.com/ranjeev20/BankAPIServer.git
+    
   2.Navigate to the project directory:
     cd BankAPIServer
+    
   3.Install the dependencies:
     npm install
 
@@ -25,14 +27,20 @@ Node.js and npm installed on your machine
     where :branch is the name of the branch you want to search for.
   
 ## API Reference
+
  Endpoint
+ 
    GET /api/data/:branch
   
  Parameters
+ 
    branch: The name of the branch you want to search for.
    
+   
  Response
+ 
   If the branch is found, the response will contain an array of bank details with the specified branch name.
+  
 
 ![image](https://user-images.githubusercontent.com/91145878/216671871-03683f86-0bae-49fa-ace3-ce919c37c697.png)
 

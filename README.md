@@ -46,7 +46,7 @@ Node.js and npm installed on your machine
 
   If the branch is not found, the response will contain a 404 status code and a message indicating that the branch was not found.
 
-![image](https://user-images.githubusercontent.com/91145878/216672055-0b8cdfc0-3957-42ec-9de3-145447d877c7.png)
+![image](https://user-images.githubusercontent.com/91145878/216676187-f6db5b42-8bc5-4342-9064-7fc7059bd149.png)
 
 ## Built With
   Node.js
